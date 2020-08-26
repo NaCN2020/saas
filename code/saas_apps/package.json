@@ -2,7 +2,7 @@
   "name": "translate",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NaCN2020.github.io/saas",
+  "homepage": "https://NaCN2020.github.io/saas/saas_app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
