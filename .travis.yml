@@ -24,6 +24,7 @@ before_script:
 script:
   - cd file_upload
   - npm run build
+  - cd ..
   - cd saas_apps
   - npm run build
  # - npm run test 
