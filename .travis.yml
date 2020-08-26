@@ -19,11 +19,11 @@ before_script:
   #- npm install --save-dev codacy-coverage
   - npm install --save-dev enzyme enzyme-adapter-react-16
   - npm install --save-dev babel-plugin-css-modules-transform
-  - sudo apt-get install jq
-  - curl -LSs "$(curl -LSs https://api.github.com/repos/codacy/codacy-coverage-reporter/releases/latest | jq -r '.assets | map({name, browser_download_url} | select(.name | endswith(".jar"))) | .[0].browser_download_url')" -o codacy-coverage-reporter-assembly.jar
+ # - sudo apt-get install jq
+ # - curl -LSs "$(curl -LSs https://api.github.com/repos/codacy/codacy-coverage-reporter/releases/latest | jq -r '.assets | map({name, browser_download_url} | select(.name | endswith(".jar"))) | .[0].browser_download_url')" -o codacy-coverage-reporter-assembly.jar
 script:
   - npm run build
-  - npm run test 
+ # - npm run test 
   #- npm run codacy
 after_success:
   - ls
