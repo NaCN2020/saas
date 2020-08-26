@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/saas/static/css/main.d8e86dc8.chunk.css",
+    "main.js": "/saas/static/js/main.3e3f20a4.chunk.js",
+    "main.js.map": "/saas/static/js/main.3e3f20a4.chunk.js.map",
+    "runtime-main.js": "/saas/static/js/runtime-main.e9b89be5.js",
+    "runtime-main.js.map": "/saas/static/js/runtime-main.e9b89be5.js.map",
+    "static/css/2.41da947d.chunk.css": "/saas/static/css/2.41da947d.chunk.css",
+    "static/js/2.5530f713.chunk.js": "/saas/static/js/2.5530f713.chunk.js",
+    "static/js/2.5530f713.chunk.js.map": "/saas/static/js/2.5530f713.chunk.js.map",
+    "index.html": "/saas/index.html",
+    "precache-manifest.e1d505425f67d8e386e23356d66ec238.js": "/saas/precache-manifest.e1d505425f67d8e386e23356d66ec238.js",
+    "service-worker.js": "/saas/service-worker.js",
+    "static/css/2.41da947d.chunk.css.map": "/saas/static/css/2.41da947d.chunk.css.map",
+    "static/css/main.d8e86dc8.chunk.css.map": "/saas/static/css/main.d8e86dc8.chunk.css.map",
+    "static/js/2.5530f713.chunk.js.LICENSE.txt": "/saas/static/js/2.5530f713.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9b89be5.js",
+    "static/css/2.41da947d.chunk.css",
+    "static/js/2.5530f713.chunk.js",
+    "static/css/main.d8e86dc8.chunk.css",
+    "static/js/main.3e3f20a4.chunk.js"
+  ]
+}
