@@ -24,7 +24,7 @@ before_script:
 script:
   - cd file_upload
   - npm run build
-  - cd ../code/saas_apps
+  - cd code/saas_apps
   - npm run build
  # - npm run test 
   #- npm run codacy
